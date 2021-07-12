@@ -1,0 +1,20 @@
+.LocationSearch input {
+    font-size: 1rem;;
+}
+
+.LocationSearch input[type="text"] {
+    padding: calc(1rem - 2px);
+    border-radius: .5em;
+    margin: 1em;
+    border: solid 1px #606060;
+    min-width: 20em;
+}
+
+.LocationSearch input[type="submit"] {
+    padding: 1rem;
+    border-radius: .5em;
+}
+
+.LocationSearch input[type="submit"]:active {
+    filter: invert(30%);
+}

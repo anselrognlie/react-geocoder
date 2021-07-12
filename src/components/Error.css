@@ -1,0 +1,7 @@
+.Error {
+    margin: 1rem 0;
+    padding: 1rem;
+    border: solid 3px red;
+    background-color: pink;
+    border-radius: .5rem;
+}
